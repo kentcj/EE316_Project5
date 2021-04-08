@@ -4,4 +4,7 @@ XADC Github and demo steps:
 XADC Wizard v3.0
   https://www.xilinx.com/support/documentation/ip_documentation/xadc_wiz/v3_0/pg091-xadc-wiz.pdf
   
+PWM IP Stuff:
+  https://reference.digilentinc.com/learn/programmable-logic/tutorials/zybo-creating-custom-ip-cores/start
   
+
