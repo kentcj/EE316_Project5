@@ -1,5 +1,6 @@
 XADC Github and demo steps:
   https://github.com/Digilent/Cora-Z7-109-XADC
+  https://github.com/Digilent/Cora-Z7-10-XADC
   
 XADC Wizard v3.0
   https://www.xilinx.com/support/documentation/ip_documentation/xadc_wiz/v3_0/pg091-xadc-wiz.pdf
