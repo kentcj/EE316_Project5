@@ -8,4 +8,5 @@ XADC Wizard v3.0
 PWM IP Stuff:
   https://reference.digilentinc.com/learn/programmable-logic/tutorials/zybo-creating-custom-ip-cores/start
   
-
+PWM and Servo VHDL:
+  https://www.codeproject.com/Articles/513169/Servomotor-Control-with-PWM-and-VHDL
